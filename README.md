@@ -1,6 +1,6 @@
 # homework_freshman
 ## 人工智能课程
-- 路径算法 + 可视化展示
+- **路径算法 + 可视化展示**
 - 文件
   - `iterms.csv`数据
   - `迪杰斯特拉算法及数据处理.py`
@@ -8,9 +8,21 @@
   - `数据分析的输出.py`
   - `数据可视化.py`
 ## 机器学习
-- 自定义logistic分类器
+- **自定义logistic分类器**
 - 文件
   - `function.py`函数文件
   - `training.py`训练文件
   - `train_data.csv`训练集
   - `text_data.csv`测试集（英文错了）
+- **感知机**
+- 文件
+  - `perception_test.py`
+  - `Iris.csv`鸢尾花数据集
+- **二层BP神经网络**
+- 文件
+  - `BPNet-test.py`
+  - `iris_BP.csv`
+## 计算机网络
+- **GAN生成对抗网络**
+- 文件
+  - `gan/-model.py`
