@@ -1,1 +1,16 @@
 # homework_freshman
+## 人工智能课程
+- 路径算法 + 可视化展示
+- 文件
+  - `iterms.csv`数据
+  - `迪杰斯特拉算法及数据处理.py`
+  - `弗洛伊德算法.py`
+  - `数据分析的输出.py`
+  - `数据可视化.py`
+## 机器学习
+- 自定义神经网络分类器
+- 文件
+  - `function.py`函数文件
+  - `training.py`训练文件
+  - `train_data.csv`训练集
+  - `text_data.csv`测试集（英文错了）
